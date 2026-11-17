@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sk910711-max.github.io/sameer-khan-academy/sitemap.xml
